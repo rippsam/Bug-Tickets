@@ -38,7 +38,6 @@ UI, Accessibility
 
 ### Attachments
 <video src="https://github.com/user-attachments/assets/db9712df-d04c-479d-ba3d-3b978254c810" controls width="800"></video>
-<img width="1727" height="821" alt="CalendarBugCaseWork" src="https://github.com/user-attachments/assets/b3df3ad8-b76b-45db-b0fc-701face54889" />
 
 
 ---
