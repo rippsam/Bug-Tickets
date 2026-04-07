@@ -26,9 +26,8 @@ Date's numbers cannot be seen because the coloring of the background and the num
 ---
 
 ### Environment
-- **OS / Platform:** Mac
-- **Browser / Device:** Chrome
-- **Test Environment:** Prod
+- **Browser / Device:** Chrome/Mac
+- **Test Environment:** Production
 
 ---
 
