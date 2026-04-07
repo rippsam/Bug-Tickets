@@ -2,53 +2,53 @@
 
 ---
 
-## Description
+### Description
  
 The calendar's numbers for the dates on the selected month, when creating a new cases, is not visible in dark mode.
 
 ---
 
-## Replication Steps
+### Replication Steps
 With dark mode on:
 1. Select the Create Case button from the dashboard page
 2. Select the Retained Date field to see calendar drop down
 
 ---
 
-## Expected Behavior
+### Expected Behavior
 Date's numbers that are not selected on the calendar are visible and do not blend in with the background. The background should be black not white
 
 ---
 
-## Actual Behavior
+### Actual Behavior
 Date's numbers cannot be seen because the coloring of the background and the number are too similar
 
 ---
 
-## Environment
+### Environment
 - **OS / Platform:** Mac
 - **Browser / Device:** Chrome
 - **Test Environment:** Prod
 
 ---
 
-## Category
+### Category
 UI, Accessibility
 
 ---
 
-## Attachments
+### Attachments
 <video src="https://github.com/user-attachments/assets/db9712df-d04c-479d-ba3d-3b978254c810" controls width="800"></video>
 <img width="1727" height="821" alt="CalendarBugCaseWork" src="https://github.com/user-attachments/assets/b3df3ad8-b76b-45db-b0fc-701face54889" />
 
 
 ---
 
-## Replicated By
+### Replicated By
 - **Name:** Bryce
 
 ---
 
-## Severity / Priority
+### Severity / Priority
 - **Severity:** Medium
 - **Priority:** 2
