@@ -1,4 +1,4 @@
-## [ESPN] My News Title Paired With Incorrect Sport
+## [ESPN] My News Title Paired With Incorrect Sport Image
 
 ---
 
@@ -15,7 +15,7 @@ In the My News section, the title of the Rick Patino article is incorrectly pair
 ---
 
 ### Expected Behavior
-Should have a basketball image paired with the article title
+A basketball image is paired with the article title
 
 ---
 
@@ -32,7 +32,7 @@ Football image is paired with the title of the article
 ---
 
 ### Customers Affected
-Those who are following college basketball
+Customers who are following college basketball
 
 ---
 
@@ -47,6 +47,5 @@ Mobile, UI
 ---
 
 ### Severity / Priority
-Severity: How bad is the impact? Priority: How urgently should it be fixed?
 - **Severity:** Low
 - **Priority:** 1 
