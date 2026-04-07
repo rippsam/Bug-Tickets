@@ -1,0 +1,59 @@
+## Title
+[MTECH] Search field “x” covered by magnifying glass
+
+---
+
+### Description
+On the [search results page](https://mtec.edu/search/), when you select the search field input to update or change you search, the ‘x’ to clear the search characters is overlapping with the magnifying glass.
+
+---
+
+### Replication Steps
+1. On the [search results page](https://mtec.edu/search/), enter some text into the search field 
+2. Move your cursor into the search field to make the ‘x’ populate 
+3. Observe the 'x' and magnifying glass overlaping on the right side of the search field input
+
+---
+
+### Expected Behavior
+The 'x' is to the left of the magnifying glass
+
+---
+
+### Actual Behavior
+The 'x' is overlapping with the magnifying glass icon
+
+---
+
+### Environment
+Where was this bug found? Fill in all that apply
+- **App Version:**
+- **OS / Platform:**
+- **Browser / Device:**
+- **Test Environment:** Dev / Staging / Production
+
+---
+
+### Customers Affected
+MTECH Students
+
+---
+
+### Category
+UI/UX
+
+---
+
+### Attachments
+
+
+---
+
+### Replicated By
+- **Name:** Hamlet
+
+---
+
+### Severity / Priority
+- **Severity:** Low
+- **Priority:** 1
