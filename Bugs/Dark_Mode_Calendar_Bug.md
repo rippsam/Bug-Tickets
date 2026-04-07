@@ -1,5 +1,3 @@
-<!--## Title -->
-
 ## [New Case] Retained Date Calendar in Dark Mode Not Visible 
 
 ---
@@ -18,31 +16,24 @@ With dark mode on:
 ---
 
 ## Expected Behavior
-Date numbers that are not selected on the calendar are visible and do not blend in with the background
+Date's numbers that are not selected on the calendar are visible and do not blend in with the background. The background should be black not white
 
 ---
 
 ## Actual Behavior
-<!-- What actually happens? Be specific. Include error messages, codes, or visible symptoms. -->
+Date's numbers cannot be seen because the coloring of the background and the number are too similar
 
 ---
 
 ## Environment
-<!-- Where was this bug found? Fill in all that apply -->
-- **App Version:**
-- **OS / Platform:**
-- **Browser / Device:**
-- **Test Environment:** <!-- Dev / Staging / Production -->
-
----
-
-## Customers Affected
-<!-- Who is impacted? All users, specific user roles, specific regions, etc. -->
+- **OS / Platform:** Mac
+- **Browser / Device:** Chrome
+- **Test Environment:** Prod
 
 ---
 
 ## Category
-<!-- e.g. UI, Backend, API, Mobile, Accessibility, Performance, Security, Regression -->
+UI, Accessibility
 
 ---
 
@@ -54,13 +45,10 @@ Date numbers that are not selected on the calendar are visible and do not blend 
 ---
 
 ## Replicated By
-<!-- Has another team member confirmed this bug? -->
-- **Name:** 
-- **Date Replicated:**
+- **Name:** Bryce
 
 ---
 
 ## Severity / Priority
-<!-- Severity: How bad is the impact? Priority: How urgently should it be fixed? -->
-- **Severity:** <!-- Critical / High / Medium / Low -->
-- **Priority:** <!-- 1 through 5, 1 being the lowest priority -->
+- **Severity:** Medium
+- **Priority:** 2
