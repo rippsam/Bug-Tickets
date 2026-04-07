@@ -15,30 +15,29 @@ In the My News section, the title of the Rick Patino article is incorrectly pair
 ---
 
 ### Expected Behavior
-What should happen based on requirements or general UX expectations?
+Should have a basketball image paired with the article title
 
 ---
 
 ### Actual Behavior
-What actually happens? Be specific. Include error messages, codes, or visible symptoms
+Football image is paired with the title of the article
 
 ---
 
 ### Environment
-- **App Version:**
-- **OS / Platform:**
-- **Browser / Device:**
-- **Test Environment:** Dev / Staging / Production
+- **OS / Platform:** Andriod
+- **Browser / Device:** Mobile
+- **Test Environment:** Production
 
 ---
 
 ### Customers Affected
-Who is impacted? All users, specific user roles, specific regions, etc.
+Those who are following college basketball
 
 ---
 
 ### Category
-e.g. UI, Backend, API, Mobile, Accessibility, Performance, Security, Regression
+Mobile, UI
 
 ---
 
@@ -47,14 +46,7 @@ e.g. UI, Backend, API, Mobile, Accessibility, Performance, Security, Regression
 
 ---
 
-### Replicated By
-Has another team member confirmed this bug?
-- **Name:** 
-- **Date Replicated:**
-
----
-
 ### Severity / Priority
 Severity: How bad is the impact? Priority: How urgently should it be fixed?
-- **Severity:** Critical / High / Medium / Low
-- **Priority:** 1 through 5, (1 being the lowest priority)
+- **Severity:** Low
+- **Priority:** 1 
