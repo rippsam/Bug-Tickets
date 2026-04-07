@@ -1,18 +1,16 @@
-## [ESPN] My News On App Incorrect Sport Image
+## [ESPN] My News Title Paired With Incorrect Sport
 
 ---
 
 ### Description
-A brief explanation of the bug and its context. What area of the app is affected? What is the impact?
+In the My News section, the title of the Rick Patino article is incorrectly paired with a football image when this is a basketball article
 
 ---
 
 ### Replication Steps
-Step-by-step instructions to reproduce the bug consistently
-1. 
-2. 
-3. 
-4. 
+1. Open the ESPN app on mobile device
+2. Scroll to the My News on the home screen
+3. Observe the incorrect image, football, paired with a basketball article
 
 ---
 
@@ -27,7 +25,6 @@ What actually happens? Be specific. Include error messages, codes, or visible sy
 ---
 
 ### Environment
-Where was this bug found? Fill in all that apply
 - **App Version:**
 - **OS / Platform:**
 - **Browser / Device:**
