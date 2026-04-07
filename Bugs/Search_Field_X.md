@@ -1,5 +1,4 @@
-## Title
-[MTECH] Search field “x” covered by magnifying glass
+## [MTECH] Search field “x” covered by magnifying glass
 
 ---
 
@@ -26,11 +25,8 @@ The 'x' is overlapping with the magnifying glass icon
 ---
 
 ### Environment
-Where was this bug found? Fill in all that apply
-- **App Version:**
-- **OS / Platform:**
-- **Browser / Device:**
-- **Test Environment:** Dev / Staging / Production
+- **Browser / Device:** Chrome/Mac
+- **Test Environment:** Production
 
 ---
 
@@ -45,6 +41,7 @@ UI/UX
 ---
 
 ### Attachments
+<img width="835" height="200" alt="Screenshot 2026-04-07 at 9 00 33 AM" src="https://github.com/user-attachments/assets/14410f7a-2d18-4e7c-ab74-dbe3f1c160fa" />
 
 
 ---
