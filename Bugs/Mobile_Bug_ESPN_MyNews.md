@@ -1,5 +1,4 @@
-## Title
-A very short, clear summary of the bug
+## [ESPN] My News On App Incorrect Sport Image
 
 ---
 
@@ -47,7 +46,7 @@ e.g. UI, Backend, API, Mobile, Accessibility, Performance, Security, Regression
 ---
 
 ### Attachments
-Screenshots, screen recordings, logs, or network responses that support the bug report
+<img src="https://github.com/user-attachments/assets/b7a59a6a-d90c-4c3b-96f6-5d42c259736d" style="width: 50%;" alt="ESPN App Bug">
 
 ---
 
