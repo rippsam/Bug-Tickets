@@ -3,24 +3,24 @@
 ---
 
 ### Description
-In the My News section, the title of the Rick Patino article is incorrectly paired with a football image when this is a basketball article
+In the My News section, the title of the Rick Patino video is incorrectly paired with a football image when this is a basketball video
 
 ---
 
 ### Replication Steps
 1. Open the ESPN app on mobile device
 2. Scroll to the My News on the home screen
-3. Observe the incorrect image, football, paired with a basketball article
+3. Observe the incorrect image, football, paired with a basketball video
 
 ---
 
 ### Expected Behavior
-A basketball image is paired with the article title
+A basketball image is paired with the video title
 
 ---
 
 ### Actual Behavior
-Football image is paired with the title of the article
+Football image is paired with the title of the video
 
 ---
 
